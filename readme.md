@@ -1,6 +1,9 @@
 # Chicken Coop Simulator
 This simulator is coded to find out how many chickens I need to be able to have a Chicken + Eggs to eat everyday. Is it useful? Nope. Is it fun? Yes.
 
+## Result
+- Roughly 300 days if you start off with one hen and one chicken
+
 ### Optimization
 - Not much though is given for design
 - Compute size is exponential as well
